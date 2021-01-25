@@ -1,3 +1,3 @@
 # GUWeatherAppTask
 
-Need to open mastr branch
+Need to open master branch
